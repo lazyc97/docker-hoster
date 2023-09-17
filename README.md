@@ -1,3 +1,6 @@
+Forked from [dvddarias/docker-hoster](https://github.com/dvddarias/docker-hoster). Add following changes:
+- Use official Python image to allow ARM build.
+
 # Hoster
 
 A simple "etc/hosts" file injection tool to resolve names of local Docker containers on the host.
